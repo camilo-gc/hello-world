@@ -1,2 +1,5 @@
 # hello-world
-repositorio de aprendizaje
+
+Hola mostros!
+
+Espero aprender muchas cosas aqui. Exitos para todos!
